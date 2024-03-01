@@ -1,7 +1,7 @@
 # chroma-gen 
 A Versatile Random Color Generator for npm
 
-![Version](https://img.shields.io/badge/version-1.0.1-green)
+![Version](https://img.shields.io/badge/version-1.0.3-green)
 
 
 ### Description
